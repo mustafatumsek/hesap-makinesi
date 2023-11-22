@@ -1,0 +1,5 @@
+C:\Users\Casper\OneDrive\kod\C# - Hesap Makinesi Form Uygulaması 2\C# - Hesap Makinesi Form Uygulaması 2\bin\Release\net6.0-windows\publish\C# - Hesap Makinesi Form Uygulaması 2.exe
+C:\Users\Casper\OneDrive\kod\C# - Hesap Makinesi Form Uygulaması 2\C# - Hesap Makinesi Form Uygulaması 2\bin\Release\net6.0-windows\publish\C# - Hesap Makinesi Form Uygulaması 2.dll
+C:\Users\Casper\OneDrive\kod\C# - Hesap Makinesi Form Uygulaması 2\C# - Hesap Makinesi Form Uygulaması 2\bin\Release\net6.0-windows\publish\C# - Hesap Makinesi Form Uygulaması 2.deps.json
+C:\Users\Casper\OneDrive\kod\C# - Hesap Makinesi Form Uygulaması 2\C# - Hesap Makinesi Form Uygulaması 2\bin\Release\net6.0-windows\publish\C# - Hesap Makinesi Form Uygulaması 2.runtimeconfig.json
+C:\Users\Casper\OneDrive\kod\C# - Hesap Makinesi Form Uygulaması 2\C# - Hesap Makinesi Form Uygulaması 2\bin\Release\net6.0-windows\publish\C# - Hesap Makinesi Form Uygulaması 2.pdb
